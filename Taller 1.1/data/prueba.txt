@@ -1,0 +1,9 @@
+Archivo de prueba
+Ivan
+Natalia
+Alto
+Azul
+Rojo
+Comer
+Saltar
+Trabajar
